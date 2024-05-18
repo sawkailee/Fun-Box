@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-khaki: #faff89;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+}
+
+
+.image-46 {
+  position: absolute;
+  top: 3036px;
+  left: 959px;
+  width: 412px;
+  height: 482px;
+}
+.circle-arrow-left-icon {
+  position: absolute;
+  top: 128px;
+  left: 81px;
+  width: 118px;
+  height: 118px;
+  overflow: hidden;
+}
+.the-reason-we {
+  position: absolute;
+  top: 994px;
+  left: 170px;
+  font-size: 36px;
+  display: inline-block;
+  text-align: justify;
+  width: 1121px;
+  height: 768px;
+}
+.webheader-11-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 114px;
+  object-fit: cover;
+}
+.about-us {
+  position: relative;
+  white-space: pre-wrap;
+}
+.about-us-wrapper {
+  position: absolute;
+  top: 163px;
+  left: 602px;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(172.1deg, #9d7855, #372a1e);
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 20px;
+  box-sizing: border-box;
+  font-size: 40px;
+  color: #fff;
+}
+.people-1-icon,
+.webheader-4-icon {
+  position: absolute;
+  top: 456px;
+  left: 382px;
+  width: 685px;
+  height: 381px;
+  object-fit: cover;
+}
+.webheader-4-icon {
+  top: 1918px;
+  left: 0;
+  width: 1440px;
+  height: 155px;
+}
+.contact,
+.us {
+  margin: 0;
+}
+.us {
+  white-space: pre-wrap;
+}
+.contact-us {
+  position: relative;
+}
+.about-us-container,
+.contact-us-wrapper,
+.project-wrapper,
+.team-wrapper {
+  position: absolute;
+  top: 1928px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-khaki);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  }
+  
+.contact-us-wrapper {
+  left: 1235px;
+  font-size: 16px;
+}
+.about-us-container,
+.project-wrapper,
+.team-wrapper {
+  left: 993px;
+}
+.project-wrapper,
+.team-wrapper {
+  top: 1932px;
+  left: 363px;
+}
+.project-wrapper {
+  left: 87px;
+}
+.column-desktop-grid-system {
+  width: 100%;
+  position: relative;
+  background-color: #fff8ee;
+  height: 2073px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
